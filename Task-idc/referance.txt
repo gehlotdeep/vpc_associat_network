@@ -3,6 +3,7 @@ Plz refer Documentation
 step-1 :   Open Step-1 Floder and install terraform and use cmd "terraform init" for proved all resources
 
 step-2 : then use cmd "terraform Plan" amd "terraform apply" its Create EKS and VPC for Production Environment
+         (make sude update kubeconfig using this cmd "aws eks update-kubeconfig --region region-code --name my-cluster")
 
 step-3 : then Open Step-2 Floder install Kubectl and Helm using Script 
 
