@@ -1,0 +1,17 @@
+Plz refer Documentation
+
+step-1 :   Open Step-1 Floder and install terraform and use cmd "terraform init" for proved all resources
+
+step-2 : then use cmd "terraform Plan" amd "terraform apply" its Create EKS and VPC for Production Environment
+
+step-3 : then Open Step-2 Floder install Kubectl and Helm using Script 
+
+step-4: use cmd "heml create chartname " check all manifest properly and change according to u need  
+
+step-5 : use cmd "helm install deployment-name and chart-name  " all Yaml File for Deploy Service
+
+step-6 : check all Processes work or not Properly 
+
+Best Regard 
+Arjun Parmar
+9834964874
